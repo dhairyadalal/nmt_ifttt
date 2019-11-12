@@ -1,0 +1,1002 @@
+new free app of the day in amazon android app store to pushover 
+tagged photos on facebook to dropbox 
+save links i share on facebook to a google drive spreadsheet 
+if new item tagged daily_news in pocket then append to text file in dropbox 
+tumblr likes are posted to buffer 
+favourite soundcloud track to dropbox 
+save feedly tagged items in dropbox text file wich you can use as a rss feed. 
+email me whenever a 36g bra is listed in the randomactsofbras subreddit #reddit #bras 
+upload any new popular photo from #500px to #google #drive... nice for some new #screensaver images. 
+add new pocketed item to feedly's save for later. 
+living room light on at sunset 
+mirror pinboard with delicious 
+notify me by email if it is raining 
+if new article saved for later in feedly, then save it in pocket. 
+post a tweet when feedly article is tagged 
+if i save an image to #pinboard, then make a #backup to #dropbox 
+post photos from instagram to tumblr 
+send sms when jimmy fallon tweets the hashtag game 
+fm faithful to evernote 
+email a link to ifttt, #download to #dropbox 
+jquery mobile blog post to email 
+instagram a twitter 
+500px > flickr 
+add a new wordpress post & it updates to your facebook page 
+append all new feedly sources to one evernote note 
+flickr favorites to dropbox folder for screensaver 
+look out, rain! 
+save ios screenshots to dropbox 
+email me the link to a saved feedly article 
+feedly saved to evernote. 
+save full resolution instagram photos to dropbox 
+instagram linked with twitter 
+if new photo added to ios album, upload to dropbox. 
+my videos on youtube are linked with twitter 
+send me a text message if it rains 
+send me a #text containing a #daily #quote every morning at 11:00! 
+post any new ffffound new for you recommendations as drafts to my tumblr, as they come up. 
+every top of the hour, post #pumpernickel to my twitter account. 
+if new item tagged recipe in pocket, then create a link note in evernote 
+new feed item matches 'week's top downloads' from lifehacker gets sent to email. 
+text me if wind speed rises above 50 km/h (10 m/s). 
+text me if wind speed rises above 36 km/h (10 m/s). 
+show past #weather reports on a #google #drive #spreadsheet. 
+if you are going to be tagged in a photo you will get an email. please consider logging into your fb 
+sends me an #email when there's a new post on r/fmf that is confirmed as a #sale. 
+tweet deals from kinja so friends can see it 
+fixed insta-tweet #instagram #twitter #integration 
+new photos to box 
+instant selfie to twitter! 
+reminder to start exercising at a certain time. 
+tweet when i favourite something in pocket 
+get a notification whenever ifttt releases an update 
+send pocket favourites to tumblr 
+new youtube upload to wordpress draft 
+if it's hot, tweet about irving berlin 
+update twitter profile picture with facebook profile picture 
+if i like an image in tumblr, download the image to my onedrive 
+pocket favorite item to evernote 
+it's raining tomorrow! be prepared. 
+bbc f1 feed > twitter 
+new photo uploaded to facebook auto uploads to flickr 
+post your foursquare photos to flickr 
+buffer articles favorited on pocket. 
+#feedly saved for later to #pinboard read later 
+when new photo added to block album, email that photo to us@heyblock.com 
+instagram to tumblr #caninecommunityreporter #wccrtv #caninemarketing #charlietarochione #kathytaroc 
+add staff picks at vimeo to your pocket queue. 
+post instagram picture automatically 
+make #foodporn tweets from flickr photos tagged 'food' 
+ios evernote reminder to action pending in evernote 
+facebook image to tumbler 
+facebook photo posts upload to flickr 
+google calendar text message 
+when i share a link on my facebook, create a link note in evernote 
+tweet espn f1 feeds 
+email me if it is rain tomorrow 
+instagram to wordpress 
+call me at naptime! 
+send any instagram photos i post with the hashtag #hackweek to me. 
+remind me why i get up everyday. #jesus #motivation 
+calendar 15 min reminder 
+saved for later goes to delicous 
+if it starts raining, then send me a text. 
+at sunrise, send a #pushover notification to my phone with today's #weather (celsius) 
+tweet tennis news 
+tweet epl news 
+post your new facebook profile picture to tumblr 
+post wordpress to evernote for evernote bubble browser view 
+turns public tracks from soundcloud into audio posts on tumblr 
+links posted to fb become tumblr link posts automatically. 
+facebook tag --> mail 
+rss cartoons - ubersoft 
+rss movies yify 
+post instagram videos to wordpress 
+add popular nytimes tech articles to pocket 
+flickr faves to evernote 
+6:15 mon-fri wake-up call 
+turn my #hue lights to #red when there is a #noaa #weather alert for lake charles, la. 
+create a blog with all twitter favorites... careful what you favorite. 
+bitcoin repository on github: email alert for new release tags. 
+favorit tweet link to save for later in feedly 
+send completed ios reminders in the 'home to do' list to evernote 
+save favorited tweets to dropbox 
+feedly post tagged del sends it to delicious 
+new feed item from lifehacker productivity sent to evernote notebook appstorm 
+if smartthings presence detected notify by pushover 
+flicker lights when it rains 
+notify me when #nyt publishes a #technology article that becomes #popular. 
+new wordpress post creates facebook page post. 
+facebook status updates create twitter posts 
+facebook link posts create twiiter posts 
+upload tumblr likes to flickr. 
+save your letters and mail into dropbox 
+add a liked (favorited) tweet to buffer 
+convert text to email 
+upload all ios photos to flickr 
+pocket tag #wordpress to evernote notebook wordpress 
+images through #buffer aggregated into #tumblr as photo posts. 
+turn off hue lights at midnight 
+sends sms for calendar appointment with the word sms in title 
+instagram photo uploads to flickr 
+posts from wordpress blog to twitter 
+send popular tech articles to pocket for offline reading! 
+when calendar event with meeting in the title starts, create a note 
+stock rise pushover. 
+new soundcloud tagged dance to pocket queue. 
+new photo on friends flickr feed sends text. 
+new photo on friends flickr feed sends gmail. 
+tumblr to blogger with tags 
+new feed item matches 'dealhacker', send to email. 
+weight to email 
+stock price at close to spreadsheet 
+feedly tags to diigo 
+post my blog to tumblr 
+backup blogger to evernote 
+wpie status post to twitter 
+every friday post on fb page happy friday 
+fb status msg to tumblr 
+fb pages post to tumblr 
+fb page status to twitter 
+get an sms when any event starts 
+tweets new blog posts with url and image url 
+save theverge's longform articles to pocket 
+daily weather report as text message 
+text me when it will rain tomorrow 
+get email of ga announcements 
+if i tweet , then send mail to my friends 
+when i favorite a tweet, create a note in evernote with that tweet 
+create a new blog post, create a new buffer post. 
+add a new wordpress blog, post a link on twitter 
+wip tag in flickr to fb 
+featured tag in flickr to fb 
+when posting a new link in facebook, append it to a note in your evernote. 
+send twitter favourites to evernote 
+if photo is posted in facebook, then upload it to my photostream in flickr 
+collect new kijiji listings in a spreadsheet 
+rss feed to wordpress post 
+rss feed then create a link post on facebook page 
+twitter to my blog-stream 
+add the new gifs in /r/reactiongifs to my dropbox 
+soundcloud in my inbox 
+if weather is raining, change lamp to blue 
+publish your favorite flickr images as new tumblr post 
+send me a text message when it's raining 
+weather report on email 
+email me the act question of the day 
+delicious link tweet 
+photo post fb to photo on g+ with buffer 
+sharing ig photos to fb page 
+post your instagram photos to tumblr 
+always know the weather! 
+tagged instagram photo to wordpress 
+vimeo likes to evernote caption 
+notify glass to take and share pictures for events. 
+send sms to ifttt and turn off lights 
+backup facebook status updates to google spreadsheet 
+facebook status to evernote 
+write a new post - tweet it 
+save teehan+lax blogposts to pocket 
+any update for ifttt notifies you via pushover 
+new tagged fb photo, create photo post on tumblr 
+turn lights off at 9pm. 
+tomorrow rain alert 
+make your instagram upload a your twitter dp by adding a #twitterdp 
+flickr -> twitter 
+instagram post with specific tag is also posted on a facebook page 
+dimmed hue light(s) on sunset 
+time to bed! turn off hue light(s)! 
+tracking fitocracy on your calendar 
+save my foursquare checkins to google calendar 
+save screenshots to evernote 
+ios screenshot to evernote 
+if euro/gbp exchange rate drops below limit then send me an email 
+email me if rain is forecast for tomorrow 
+bookmark on diigo to evernote 
+wordpress posts to evernote 
+get a text message when your username is mentioned on reddit. 
+share instagram with twitter cards 
+backup instagram photos to onedrive 
+turn on a switch after weigh in. 
+rss feed (trigger) to tumblr text post (with image & tags) 
+daughter+bed time=lights pink 
+archive tweets in google drive spreadsheet 
+create a vimeo #video post on tumblr 
+text for snow tomorrow 
+if recieved mail tweet it 
+chs teacher tech post to email 
+register in evernote temp drop < 0°c 
+tweet with #2pkt to pocket 
+send me an email with shipping updates 
+feedly articles saved for later, convert to pdf then upload to box (wifi only devices - enable offli 
+tweet every hour for shranps 
+if temperature drops below a temperature then append to a note in evernote 
+pocket favorites to google drive 
+post instagram to flickr 
+your github issues to pushover 
+save all favorited items from pocket to evernote full articles using ukeeper.com. 
+delicious to pinboard 
+every day at 7am notify me of the weather forecast via pushover 
+#skolbloggen #rss feed to #email 
+every day, get a new recommended recipe in your inbox 
+remind me to take an umbrella with me if it's going to rain tomorrow 
+tweet new post by ashley welton #wordcarnival 
+tweet to tumblr text 
+if tagged in facebook, send me a text message. 
+if new feedly category article then create a new post on wordpress 
+get sms'd when there's a new hot post in /r/iama 
+turn on the lights when the sun goes down. 
+warn for rain with one blue light. 
+automatically tweets when you add any new item in pocket 
+pinboard bookmark to twitter link post 
+auto-diary. add foursquare checkins to google calendar. 
+push today's weather report forecast to boxcar at 8:10am 
+save archived article to dropbox 
+send me a boxcar push if it is going to snow tomorrow 
+blink lights when rainy 
+lights on when sunset 
+lights off at 2 am 
+uk fco ukraine travel advice rss updates to sms 
+my wordpress post at myfacebook page post 
+feedly feed for item to pocket add 
+my favorite teet to semd my email 
+log check engine light codes to google calendar 
+receive an email plus pop-up notification on your mobile when there's a new post on /r/btcnews 
+text me apple's close price. 
+ios screenshots to dropbox 
+reddit to twitter 
+if apple goes over 450than send sms 
+dim patio light at 11:00 pm to 20% 
+feedly article tagged to blogger post 
+upload all new ios photos you take to onedrive 
+save the photos you're tagged in on facebook to onedrive 
+save the photos you upload on facebook to onedrive 
+save your instagram photos to onedrive 
+download new songs you like to onedrive 
+upload all new 500px photos you post to onedrive 
+upload all new flickr photos you post to onedrive 
+create pages in onenote from a text message 
+send your iphone screenshots to onenote 
+send your pocket favorites to onenote 
+send the links you tweet to onenote 
+send your liked tweets to onenote 
+send your instagram photos to onenote 
+send articles from the nyt to onenote 
+send the github issues you're assigned to onenote 
+if the president signs a new bill into law, then send me an sms 
+instagram to dropbox test 
+send new ios photos to onenote 
+new android police apps or games of the week 
+if new pocket favorite, push it to pushbullet 
+save my tweets to a google spreadsheet 
+blog rss feed to blogger blog 
+if feedly then add to buffer 
+google stock price updated on twitter bio. 
+if sunset, turn on hue lights. 
+turn off all your hue lights at night 
+fb tag > dropbox 
+4square + sms 
+new photo upload on page buffer add photo to buffer 
+share great articles from feedly to buffer 
+new linkedin contacts in a google drive spreadsheet 
+plex release announcements rss to pushover 
+notification if tomorrow's forecast predicts rain 
+email new cloudera blog entries 
+#weather #sms #cold #brooklyn 
+notify when car turned on 
+every weekday at 06:00 am send me a text to do work 
+add your foursquare checkin history to your google calender 
+new editor's choice to evernote 
+500px new choice photo to dropbox 
+500px new popular photo to dropbox 
+if any new public photo on flickr photostream, then post a tweet with image to twitter. 
+if any new public photo on flickr photostream, then create a photo post on your tumblr 
+if new favorite item, then create a page with an image 
+put aapi ufo videos into pocket 
+if feedly then pushover 
+get today's weather at 8am as an if notification. 
+get today's weather at 9am as an if notification. 
+send me notification of new free app of the week 
+tweet when netatmo noise level exceeds certain level 
+for each new rss item from my paper.li, add a row to my google spreadsheet. 
+if new top post in r/ama, send an email. 
+new post in /r/fitness send me an email. 
+tweet when the white house opens a new github repo 
+tweet when 18f opens a new github repo 
+tweet when cfpb opens a new github repo 
+tweet when nga opens a new github repo 
+tweet when commerce opens a new github repo 
+tweet when state opens a new github repo 
+tweet when interior opens a new github repo 
+tweet when usgs opens a new github repo 
+at 04:15 am, send me text with the today's weather. 
+email me new opencart blog entries 
+long press on wemo changes hue light(s) 
+new face's status to twitter 
+tweet when epa opens a new github repo 
+tweet when labor opens a new github repo 
+tweet when usda opens a new github repo 
+tweet when usda-ers opens a new github repo 
+tweet when usasearch opens a new github repo 
+tweet when usaid opens a new github repo 
+tweet when usagov opens a new github repo 
+tweet when state-hiu opens a new github repo 
+tweet when ise opens a new github repo 
+tweet when redhawk opens a new github repo 
+tweet when project open data opens a new github repo 
+tweet when project interoperability opens a new github repo 
+tweet when presidential innovation fellows opens a new github repo 
+tweet when peace corps opens a new github repo 
+tweet when ozone platform opens a new github repo 
+tweet when nrel opens a new github repo 
+tweet when nhlbi opens a new github repo 
+tweet when ncip opens a new github repo 
+tweet when ncbi tools opens a new github repo 
+tweet when ncbi opens a new github repo 
+tweet when national park service opens a new github repo 
+tweet when nasa opens a new github repo 
+tweet when mcc opens a new github repo 
+tweet when los alamos opens a new github repo 
+tweet when library of congress opens a new github repo 
+tweet when informatics lab opens a new github repo 
+tweet when imls opens a new github repo 
+tweet when hpc opens a new github repo 
+tweet when history at state opens a new github repo 
+tweet when hhs opens a new github repo 
+tweet when gsa opens a new github repo 
+tweet when foreign assistance opens a new github repo 
+tweet when fda opens a new github repo 
+tweet when fcc opens a new github repo 
+tweet when cfpb eregs opens a new github repo 
+tweet when erdc-cm opens a new github repo 
+tweet when education data initiative opens a new github repo 
+tweet when va opens a new github repo 
+tweet when hhs cms opens a new github repo 
+tweet when chaos opens a new github repo 
+tweet when adlnet opens a new github repo 
+text me if it rains. 
+every new hot reddit post goes to pocket 
+if new item added on pocket, then email me 
+youtube to facebook page 
+tweet favorite videos on vimeo 
+bookmark vimeo favorites on delicious 
+ios reminder to take evening medications @ 8pm 
+12:15 reminder for lunch medications. 
+send if notification if weather rises above 75 fahrenheit. 
+instagram to fb fan page 
+instram to twitter e 
+adding rss items to buffer as photos 
+sms to pushbullet 
+androidpolice apk to if notification 
+if your facebook profile picture changes, then update your twitter profile picture. 
+sound cloud to facebook page 
+text me if i missed a call 
+send if notification when dognzb registrations are open! 
+unmute phone when i wake up 
+mute my phone when i am in the chunch & turn on vibrate 
+every day at 4:45am, add today's weather report to my calendar 
+upload nasa's astronomy picture of the day (#apod) into a google drive folder. 
+if it is raining or starting to rain, get notified so you know that you have to get ready your umbre 
+post photo tweet from rss 
+today's weather via email 
+pocket feed sent by email 
+set device wallpaper to facebook photo you are tagged in 
+blog -> twitter 
+mail me the latest apple press release 
+unmute my phone in the morning 
+unmute my phone when i leave the office 
+automatically upload iphone selfies to google drive 
+soundcloud favorites to google drive 
+iphone screenshots to dropbox screenshots folder 
+popular 500px category to android wallpaper 
+if i like the photo ,then save it in dropebox 
+tweet your public youtube uploads 
+instaram ke twitter photo 
+new story from rstrt0 on reddit /r/talesfromtechsupport. text 
+post new wordpress entries to twitter 
+if new editors' choice photo on 500px (any), then add file from url to dropbox 
+new story from airz23 on reddit/r/talesfromtechsupport or /r/airz23 
+notice me by mail when certain feed updates 
+is it sunny? update your wallpaper to reflect the mood. 
+is it snowing? update your wallpaper to reflect the mood. 
+mute my phone when i leave home 
+tut-tut, it looks like rain if notification 
+everyday at 08:45 am send current temp and forecast to google glass 
+xkcd (rss) to pocket 
+if movie related article then notification 
+if if get out of school, then set ringtone volume to 100% 
+when xperia blog posts a new post, send me a notification! 
+free stuff on reddit 
+instagram to fb #2 
+new youtube video then create a new blog post 
+save new android apk torrents from tpb to spreadsheet 
+good morning text 
+toucharcade rss -> email 
+vimeo watch later -> email (for evernote reminder) 
+new ecig/vapor related post from casaa, then send a notification via pushover 
+record details of any call placed 
+share your instagram photo on twitter 
+if any new sms received, then add row to spreadsheet google drive 
+leave work and turn the volume back on. 
+tweet diigo public posts 
+sabbath hours mute 
+set phone to vibrate in the morning on workdays. 
+notify me when paranatural.net updates 
+technology articles to daily email 
+make a backup on dropbox of every instagram photos i've taken. 
+post any new instagram photo on twitter with the picture embedded in the tweet. 
+if any new event is added by anyone on a shared google calendar, then send me a notification. 
+create a daily log of my fitbit activity in evernote. 
+daily goal not met by 7pm? send me a text. 
+restore my ringtone at waketime 
+add a document to google drive with your daily stats 
+email my spouse if i do not meet my daily step goal by 8pm 
+notify of new reddit post for search amazon coin free 
+fresh meat's top 10 new android apps of the week to email digest 
+if new ifttt channel, then send a if notification 
+tweet calendar event with hashtag 
+youtube upload to facebook page 
+youtube upload to wordpress post 
+youtube upload to delicious bookmark 
+youtube upload to reddit submit link 
+youtube upload to blogger new post 
+send a notification if i don't get enough sleep 
+text me my weight 
+save photos to flickr 
+tweet if you wre tagged in 
+from facebook to flick'r 
+rss of #uvmblog > twitter 
+share specific facebook photo on twitter 
+rates of exchange alert (£ to $) 
+save my #tumblr photo posts to #dropbox 
+when entering or exiting rackspace sf, post to a slack channel 
+photo from dropbox to picasa by gmail 
+unmute my phone whenever i exit the office 
+append completed toodledo tasks in evernote note 
+new article added feedly category 
+mute your phone when connected to a specific wi-fi 
+post new instagram photos to facebook page album 
+don't miss your bus stop. if you enter an area, then send a notification. 
+append instapaper highlights to evernote note 
+instapaper likes to private delicious bookmark 
+if new post in /r/atheism, send if notification 
+send new xkcd-what-if questions to me via e-mail 
+send archived pocket items to dropbox 
+send flickr to dad's email 
+enter an area, get a notification. 
+turn all hue lights to red color if smoke alarm emergency in bedroom 
+turn all hue lights on if smoke alarm emergency in bedroom 
+bedroom nest protect battery is low, add reminder to list 
+receive a notification when your thermostat is set to away mode 
+like a photo on tumblr and upload it to your flickr photostream. 
+if temperature drops below 48f, send me an email. 
+post daily activity summary from fitbit to a self-hosted wordpress site 
+receive a notification on your ios device if new post on a blog you follow 
+daily fitbit summary to evernote #lifestream 
+send sms for each square payment 
+save my check-in at restaurants to a spreadsheet 
+words blog to evernote 
+create daily log of stock price at close to google drive spreadsheet 
+todays weather report - celcius 
+auto set nest temperature high if it gets cool outside 
+turn ringer off for church 
+add an event to my calendar when my engine light turns on. 
+if there is motion detected in my house, then send me an sms. 
+stock drops in price, send an sms 
+instagram snaps to twitter 
+rain android wear notification 
+pocket items to pinboard 
+mute phone when at work 
+pinboard items to pocket 
+send me an email whenever a /r/boston post becomes top rated 
+email me photos i'm tagged in. 
+find my phone! turn volume up by sending a #sms volumeup to my phone 
+phone silence when your at work 
+hot new reddit wallpaper post updates android device wallpaper 
+auto-tweet your pic when you post to ig! 
+new tweets forward to facebook fan page 
+new photo > wallpaper 
+any new payment accepted via square sends you an email 
+add new square payments to a spreadsheet 
+payments over $____ send you a notification via google glass 
+payments over $____ send you a notification on android 
+refunds over $____ send you a notification on android 
+curate content with feedly and schedule with buffer. 
+upload every taken photo to box 
+stock raise ios 
+tumblr pic -> twitter 
+post new instagram pics as native twitter pics instead of just links. 
+download any photos of me to dropbox 
+payments over $____ post a celebratory message to a group on groupme 
+new payments create new notes on evernote 
+email me new #twitter followers 
+payments over $____ send an email to any address you choose 
+refunds over $____ send an email to any address you choose 
+receive an if notification for new square settlements 
+archive sent sms to evernote 
+post new tumblr blog to wordpress 
+post new tumblr blog to wordpress 
+rss 2 reddit 
+automatically connect your droid to open wifi networks and receive a text alert 
+share dash trips to google sheets 
+send your lights into a color loop when the iss passes overhead 
+get pushbullet notifications for new youtube videos 
+get missing kids.com to send you an amber alert via a text message when there is children missing. 
+send a text message when iss passes over a certain location 
+upload new photos to google drive 
+if any new photo, then append to a note in evernote 
+tweet my reddit posts 
+placed new photo in selected dropbox folder then this photo upload on your facebook page 
+save your messages on spreadsheet for your fb monitoring 
+post from tumblr to wordpress 
+save tweets you favorite to pocket 
+forwarding an sms to my task list 
+buffer blogposts to google spreadsheet 
+every day's weather right to your phone. 
+starting to rain? send me a notification! 
+instagram > clickonthings.tumblr.com 
+silence phone at night 
+if it snows gmail 
+delicious to wei 
+new buffs to reddit 
+receive notification on desktop if you receive a call on phone 
+pics from dropbox to box 
+save the nasa image of the day to your ios photos. 
+if i share a link on facebook, add it to my tumblr queue 
+instapaper saved > if notification 
+if new link post on fb -> tweet 
+send me an email when new skype update is released 
+send me an email when new google chrome stable is released 
+wake up call!!! 
+get email on fb profile change! 
+ios photo to gdrive 
+send out a tweet when you favorite someone's tweet 
+tweet someone when you favorite their tweet 
+yt to delicious 
+yt to instapaper 
+yt to onenote 
+yt to tumblr (video post) 
+yt to twitter 
+gre word of the day by sms 
+links on facebook saved at pocket 
+instagram photo - share on tumblr - auto posts photo to twitter 
+ios photos to drive 
+rss to bit.ly 
+send me the closing price for a ticker! 
+enter ares mute ring tone, enable vibrate 
+add meeting minutes to evernote when a new event added at google calendar 
+get email when +googleanalytics posts on g+ 
+pitchfork best new album to pocket 
+tumblr to bloger become easy one 
+facebook status updated on twitter 
+hashtag test for voicemail --> gmail, then further distribution 
+mail me best & worst articles from uproxx 
+alert people on #twitter when you come out with a new #youtube video 
+above 25℃ tomorrow? send a notification! 
+notify me of the weather every morning. 
+rain warning to twitter. 
+square sale then fb page post 
+500px popular (people) to google drive 
+tell my glass i have a text 
+google blog notification 
+fb photo then post to twitter 
+soundcloud 2 sinaweibo 
+record car trips in a google docs spreadsheet 
+text me if it rains tomorrow. 
+create a database of your twitter followers 
+give me a ios push when the rss add a new article. 
+gk fb page -> wordpress 
+instagram to fbp 
+fbp to twitter 
+check in and add to sheet 
+get notifications of new design articles 
+instagram images show automatically on twitter 
+if the nest is set to away, turn off wemo insight. 
+track your foursquare checkins on google calendar 
+get a notification when @caskdays sends a tweet alerting that a cask is finished 
+send a notification with the current bitcoin value from twitter. 
+save top truereddit articles to pocket 
+push sbr all team forum posts rss-->email 
+upload new photos to onedrive automatically. 
+permanent record of your facebook posts 
+save article for later add to todoist 
+exchange rate report 
+if any post is made in your blog add task in todoist 
+daily todoist completed tasks digest 
+create todo from your calendar event #todoistifttt 
+weather report on if notification 
+review your completed todoist task in a spreadsheet 
+if new trending gif, then send me an email 
+add new reminder to todoist 
+if it's going to snow, then notify me that hot cocoa and reading by the fireplace is in store. 
+add new reminder to todoist inbox 
+new screenshot. add a doc. to google drive 
+notify me tomorrow's weather in celsius only this evening. 
+facebook photos tagged with me are sent to dropbox. 
+todoist to ios reminders 
+startup daily digests - entrepreneur (reddit) 
+startup daily digests - advanced entrepreneur (reddit) 
+saved pocket links to google drive spread sheet rows 
+completed todoist tasks into evernote 
+if someone tags you on fb, create task to respond later. 
+let my jealous gf know i'm leaving the house. 
+/r/earthporn to ios photos 
+android text msg >> ios 
+amazon android app of the day gmailed 
+feedly saved for later to to-doist task 
+if there's a new post in /r/beachparty, send me a push 
+send a sweet message to a loved one when it gets very cold 
+feedly tag to slack 
+send me a text when i get a mention on twitter 
+send me a text every time a specific user on twitter tweets something 
+if event from search for 'off' starts on google calendar, then set temperature to __° 
+event in gcalendar saved as to do on evernote 
+tweet sleep duration from fitbit 
+post tumblr image to fb fanpage 
+have porch light come on when motion is detected. 
+push room temperature to weibo by nest measuring 
+iss is passing over central london 
+tweet to android 
+sms when you arrive at disney world 
+log your whereabouts to a spreadsheet 
+notfy tweets in an area 
+post from instagram to twitter 
+rss to onenote 
+yt to gdrive 
+yt to tumblr 
+instagram photos to flickr #flickr #instagram 
+mute my phone at bedtime 
+send new post in /r/depra an email 
+post instagram to twitter with photo 
+save top /r/truereddit articles to pocket 
+if temp drops below 60, notify me! 
+tumblr draft post for every feedly saved for later 
+save a reddit image post, get a draft tumblr photo post 
+digitalsmb rss to twitter 
+save all hyperrat tumblr posts to pocket 
+sbr cat4&5 forum rss -> gmail 
+flickr favorite to android wallpaper 
+save my ios photos to one drive 
+twitter favs to wordpress 
+notify when new shift codes for borderlands are tweeted 
+notify when wemo is on 
+if wemo off notify 
+if a popular product price changes notify me on ios 
+if the president signs a new bill into law, then push a link 
+if iss passes over ___ add row to google spreadsheet. 
+a cool android or ios app gone free is listed, push a link through pushover. 
+text me the weather forecast every morning 
+tweet if i miss my fitbit target 
+got home? email the person that should know! 
+favorite article on twitter to pocket to read later 
+receive a notification with your daily fitbit sleep record 
+tumblr img to twitter img tweet 
+tumblr video blog to twitter 
+add tumblr link post to twitter (link to original url) 
+wifi off = ringer mode 
+making photos u liked your wall paper 
+6:00 am weather notification 
+new ios contact sends confirmation to that contact. 
+instagram to secondary tumblr 
+bayfeeds to facebook 
+store your tweets in a google drive spreadsheet 
+if you're tagged in a facebook photo, then update it to google drive 
+new 'general' job at wordpress.net, send me an email. 
+new migration job posted to wordpress.net? send me an email! 
+new posts from search to box 
+email new watch instantly items to myself 
+weekly time sheet reminder 
+if a joke becomes hot on /r/jokes send link to pushbullet. (can change subreddit) 
+todoist to google calender 
+when a new kindle ebook is added to amazon's best sellers list, send an email 
+tweet from google calendar 
+fs to twitter 
+g+ to thumblr 
+true widow twitter rss updates to tumbler #j_blu3jack3t 
+tx_doomseer twitter rss updates to tumbler #j_blu3jack3t 
+new post on wordpress shares a link post on fb fan page. trigger tag: broadcast 
+send an email to trigger@recipe.ifttt.com with tag #callme and it will call you and read the email. 
+facebook page to tumblr 
+send email if calendar entry is tagged with #sendemail 
+fb 2 twitter 
+send me an sms if it'll rain tomorrow. 
+tumblr counter mail 
+add delicious bookmarks, as a link post to a tumblr blog 
+if facebook posts link, tweet posts as well 
+if tagged in facebook picture twitter will post tweet with image 
+if facebook uploads new photo, tweet with picture 
+foursquare to facebook page 
+vimeo fav to evernote 
+if there's a #weather warning in #dallas, send me a text message 
+text me when windy 
+instagram photos to evernote 
+weatherreport : rain 
+automatic wp blog updates on your facebook fan page! 
+send me an sms when there's a tracking update. supports #usps #ups #fedex and #dhl 
+if i upload photos on instagram, post the photo to my tumblr! 
+update my twitter when i upload pictures on flickr. 
+flick to tweet 
+blogger to twitter 
+#flickr #wordpressflickr to wordpress 
+send me a prowl notification when my blog updates 
+if there's a #weather warning in #rockwall, text me. 
+add youtube videos to facebook page 
+vimeo post to tumblr 
+save emails to dropbox 
+share new delicious bookmark to twitter 
+post flickr pictures to facebook page. 
+rain to sms verona 
+when my photographics instics do something then show that on flickr 
+add instagram photos to dropbox. 
+last.fm loved track to twitter bio 
+google reader feeds with keyword linkedin to evernote 
+if new blog post, post to aca facebook 
+from r/futurebeats rss to twitter 
+wordpress to facebook pages 
+#instagram to #dropbox 
+pocket to pinboard 
+pocket to evernote read 
+blog feed to facebook page 
+tweet my new flickr photo 
+sunrise wakeup text 
+add ig photos to ig album on facebook page 
+tumblr photos to twitter 
+wordpress blog posts create twitter posts. 
+share new youtube uploads on twitter 
+diigo to tumblr 
+diigo posts to tweet 
+flickr fav → tumblr 
+tweet tagged flickr uploads. 
+wordpress to buffer 
+add your facebook status updates to google calendar 
+repost from blogger to wordpress 
+sunrise weather conditions 
+facebook (status) > twitter 
+foursquare checkins with photo to tumblr 
+above 25°c in moscow 
+from vimeo to twitter 
+from #dropbox to #flickr 
+from #delicious bookmarks tagged #inspiration to new #evernote note in inspiración folder. 
+i'm adding instagram to dropbox! 
+if you post a photo on facebook it posts it to twitter. 
+post checkins to calendar 
+add videos uploaded by me to google calendar 
+add new links from my facebook account to google calendar 
+add every new photo from my facebook account to google calendar 
+add photos tagged with me from facebook to google calendar 
+my facebook profile information changed – to google calendar 
+my facebook page epythia changes to google calendar 
+add facebook page epythia posted links to google calendar 
+add every new photo from facebook page epythia to google calendar 
+add all my 4sq check–ins to google calendar 
+add 4sq check–ins with photo to google calendar 
+save quote of the day to pocket 
+create photo post on tumblr when i upload a new photo to instagram. #tumblr #instagram 
+fb to wp 
+facebook links post to twitter 
+send and email tagged #lostphone to ifttt and your phone will ring! 
+if there's snow tomorrow, send me an email. 
+if foursquare then quick event on google calendar 
+if rss then sms 
+send sms if the macrumors rss feed reports that mountain lion is available in the app store 
+backup all my #instagram pictures to #dropbox 
+backup pictures i uploaded on #facebook to #dropbox 
+save my favorite pictures on #flickr to #dropbox 
+backup pictures posted to a #facebook page to #dropbox 
+add a bookmark to pinboard and backup to delicious 
+backup pinboard entries to diigo 
+create public #bitly bitmark when a new post is published on my #wordpress blog 
+automate new wordpress posts to blogspot 
+instagram to tumblr photo posts 
+twitter status to pushover 
+save facebooked links to delicious. 
+double-post new facebook photos to flickr. 
+update twitter from facebook status 
+sms if tomorrows forecast calls for rain 
+post to #tumblr, #tweet out. 
+save tumblrs to dropbox 
+take out the trash reminder 
+#text me the #weather forecast every morning at #sunrise 
+tumblr text post to facebook 
+tumblr quote post to facebook 
+tumblr video post to facebook 
+if post a tumblr photo, then post to facebook photo album! 
+push me on new reddit post 
+wordpress to blogger 
+google+ post to wordpress 
+new watch later on vimeo added to pocket 
+post cnn news updates to twitter 
+email subscriptions to any blog! 
+email me when roger ebert gives a movie four stars. 
+add new instagram pics to a specific ifttt/instagram dropbox folder 
+#text (#sms) me the #weather in the #morning #everyday. 
+dropbox update email 
+add flickr favourites to buffer 
+new post on a blog you follow with your tumblr account to pushover 
+# blogger _ tweet 
+if send ifttt a text tagged #todo, from cell phone then quick add event to google calendar. 
+add to google drive if added to dropbox 
+when motion is detected after 30 minutes, add it to a spreadsheet on google drive 
+copy pinned pages to google spreadsheet 
+save my facebook status updates to a google drive spreadsheet. 
+update google calendar with each one of my facebook status updates. 
+spreadsheet with the daily weather, triggered at sunset. 
+spreadsheet with the daily weather, triggered at sunrise. 
+save pictures from instagram to dropbox. #ifttt very nice sync app!!! :dd 
+add recipes to evernote 
+fb to twt 
+#facebook #upload #box 
+morning weather email 
+add advisory appointment to evernote 
+a post, posted to my #tumblr, gets a push notification via #pushover. 
+noaa severe weather notifications 
+post new soundcloud uploads to tumblr 
+autopost new soundcloud uploads to twitter! 
+autopost new soundcloud uploads to wordpress! 
+auto-schedule tweets about new soundcloud uploads with buffer! 
+autopost new soundcloud uploads to facebook page! 
+post instagram photos to tumblr 
+turn on the light every weekday morning so i can pray and blog (and not fall down in the den) 
+simple notification about facebook tagging to sms. 
+bitly2buffer #bitly #buffer #ifttt 
+backup my post in box.net 
+if it rains tomorrow, send the higt/low temperature in celsius to me. 
+to backup facebook tagged photos in gdrive 
+new sound file in dropbox folder creates private track on soundcloud! 
+wired geekdad headlines delivered to email 
+wired 'this day in tech' headlines delivered to email 
+facebook photo to tweet with image 
+email me the weather 
+post a tweet after new blog post 
+upload videos to youtube the post them to your blog 
+send me an email when i can watch the sunrise 
+send email with blog's update. 
+if it rains. 
+current condition changes to rain 
+wordpress to blog 
+high uv warning! 
+form wordpress blog to evernote 
+keeps facebook and twitter bios sync'd. 
+instagram photos to google drive 
+facebook link posts to livejournal via email 
+new video on vimeo->facebook post 
+new vimeo content-> twitter 
+when a new pic is uploaded to facebook it's also copied to evernote. 
+save facebook's status updates to evernote in a journal notebook 
+auto-tweets titles and urls of blog posts 
+tweet new add-ons from @herokuaddons 
+automatic posting of blog posts to twitter 
+blog post--> facebook page 
+raining facebook post 
+mac-tv.de - tweet to sms 
+email trigger@recipe.ifttt.com with #ovcs in subject line to post a tweet that includes #ovcs 
+backup new public bookmarks from pinboard to a single evernote note 
+sends an sms whenever @dgshiftcodes tweets a new shift key for pc. 
+downloads photos from facebook and adds them to dropbox's facebook folder. #facebook #dropbox 
+creates a note in evernote everytime a check-in occurs. #foursquare #evernote 
+sync #dropbox with #google #drive 
+wordpress to facebook 
+tweet new bit.ly links 
+anytime i post a photo on instagram this will automatically publish the photo to my wordpress blog. 
+blog post ==> tweeted 
+saves any photo tagged with me in it on fb to dropbox. 
+download the latest pictures from the #nasa earth observatory to your dropbox to use as a screensave 
+photo check-ins to tumblr 
+send an email when rain is scheduled for tomorrow#weather #rain 
+send #pushover notification when i'm tagged in a #facebook photo 
+check-in to dropbox 
+add foursquare checkins to evernote diary! 
+email myself with a note 
+save all voicemails to ifttt to google drive 
+when you upload a photo to facebook, it will backup a copy to box. 
+share tumblr posts with evernote 
+flickr > facebook page 
+notification of new tumblr posts on blogs i follow... 
+blogger to tumblr photo post 
+fb updates become tweets too 
+action that sends instagram pics to twitter. 
+tumblr picture > wordpreess 
+file email attachments in pocket #pocket #email 
+instagram > flickr 
+new adding to pocket posts a tweet recipe. very useful. 
+tag updated and posted pocket article. 
+blink the tree lights if it snows 
+tweet after blog with octopress 
+rss feed item creates tumbler text post 
+youtube uploads creates bitly bookmark 
+youtube upload creates evernote post 
+youtube upload creates tumbler post 
+vimeo upload creates blogger.com post 
+vimeo upload posts to flickr 
+vimeo upload announced on twitter 
+make sure i'm emailed calendar reminders 
+flickr fave to twitter 
+an email is sent to me at sunrise with the current and day's weather conditions. 
+post google calendar events to new note in evernote. part of the #evernotediaryseries 
+when i'm tagged in a facebook photo upload to flickr with the tag facebook 
+add file to my inbox in dropbox by email to trigger@recipe.ifttt.com tagged by #inbox. 
+saves a favorited item in pocket to evernote with png and pdf snapshots. 
+if bitly then pushover 
+send sharepoint-blog entries of michael greth via e-mail 
+if a youtube subscription uploads a new video, then text me. 
+email a file to ifttt (preferably pdf) and upload to dropbox 
+ifttt update sends email to you 
+kingfisher tweets sent to email 
+any new blog post goes to buffer. 
+creates a note in evernote each time you favorite an item in pocket. 
+500px popular feed to dropbox 
+instagrams tagged #movelifestyle-> move fb album 
+a new public favorite on soundcloud, creates new tumblr audio draft on your blog. 
+if you're #tagged in #facebook, then email a copy to your smugmug. 
+wemo off then on 
+pushover new entry from iboardcast 
+force gmail to check pop3 email account more frequently. 
+status update diary saved onto drive 
+wordpress-post to evernote 
+all tagged facebook photos saved to dropbox 
+let instagram work with twitter again. 
+if facebook photo upload then tweet link and caption 
+if facebook status then update twitter tweet. 
+send engadget's daily roundup to my email 
+if a new set is added to flickr, create a new note in evernote 
+discountwatchstore.com feed tweets 
+check-in places to gcal 
+any #tumblr post to a #public #pinboard bookmark. 
+if new post to carporn blog, post to twitter 
+facebook photos to drive 
+sending new rss items to pocket 
+flickr favorites to tumblr photo drafts 
+rss to email formatted 
+if i'm tagged in a facebook photo, it's sent to my google drive. 
+share from newsblur to twitter 
+if i post a status message, back it up to a google doc 
+get a text message at 3pm to remind you to listen to the church of lazlo. 
+post new public bookmarks from delicious to buffer 
+if item added to pocket tagged 'wedding' then append details to a text file in dropbox. 
+a noaa weather alert containing 'tornado' with trigger an sms alert. 
+a noaa weather alert containing 'hurricane' will trigger an sms alert. 
+my video to blog 
+automate your new youtube uploads to post a delicious bookmark 
+pinboard.in @post items to buffer for distribution to social networks. 
+etsy items added 
+add all statuses to text file on dropbox 
+stores check in's in an excel sheet for review later 
+post new bookmarks in pinboard.in to twitter, so you can annoy your followers. 
+fb link to twitter 
+tumblr link to pinboard 
+fb link to t 
+favorite pocket to twitter 
+#text me today's #weather every morning 
+when i post a link on facebook, make a photo post on blogger 
+knicks new to pocket 
+save my tweets to google calendar 
+log my tedmed twitter notes in an evernote notebook 
+man of steel news from entertainment weekly 
+post tomorrows weather forecast to a facebook page with a forecast link. 
+when i upload a photo to instagram, upload a copy of the photo to dropbox. 
+send vimeo watch later videos to pocket 
+add foursquare check-ins to foursquare calendar on google 
+new earthquake in new madrid zone > post to twitter. 
+upload photo to facebook, post to evernote #lifestream 
+facebook status message to evernote #lifestream 
+tagged photos to evernote #lifestream 
+automatically tweets and post hatebu what you favorite in pocket 
+email about the todays weather 
+tumblr photo to twitter 
+receive an email every time a new job is posted to rpcv career link that does not require a master's 
+emails me the weather condition on the next day. 
+text me if it's gonna rain tomorrow! 
+facebook to flickr 
+4sq checkin photo to flickr 
+send todays weather to pushover 
+every time you upload a video to your youtube account, create a new tumblr video post. tip: in the f 
+instagram updates on blogger 
+archive #tumblr likes to #box 
+publish fb page status on blogger 
+a noaa weather alert containing 'tropical storm' with trigger an sms alert. 
+flicker to dropbox 
+rss mysolution.mobi to wp 
+rss feeds to tweets 
+bit.ly to sms 
+tagged in a photo on #facebook? that photo will be uploaded to #box. 
+if new article saved for later on feedly, tweet article title and link to personal twitter. #feedly 
