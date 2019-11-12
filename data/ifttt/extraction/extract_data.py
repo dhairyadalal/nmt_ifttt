@@ -122,60 +122,103 @@ url_map = pickle.load(open("url_map_complete.pkl", "rb"))
 #         src.write(v.text + " \n")
 #         target.write(v.target + " \n")
 
-# %%
-with open("data/ifttt/extraction/data/dev.urls") as dev_urls, \
-     open("data/ifttt/extraction/data/train.urls") as train_urls:
-     dev_urls = dev_urls.readlines()
-     train_urls = train_urls.readlines()
+# # %%
+# with open("data/ifttt/extraction/data/dev.urls") as dev_urls, \
+#      open("data/ifttt/extraction/data/train.urls") as train_urls:
+#      dev_urls = dev_urls.readlines()
+#      train_urls = train_urls.readlines()
 
-dev_urls = [url.strip() for url in dev_urls]
-train_urls = [url.strip() for url in train_urls]
-
-
-
-# %%
-la_dat = pickle.load(open("data/ifttt/msr_data_py3.pkl", "rb"))
-
-#%%
-la_dat.keys()
+# dev_urls = [url.strip() for url in dev_urls]
+# train_urls = [url.strip() for url in train_urls]
 
 
-# %%
-la_dev   = la_dat["dev"]
-la_train = la_dat["train"]
-
-# %%
-print(len(la_dev), len(dev_urls))
-print(len(la_train), len(train_urls))
-
-#%%
-def isEnglish(s):
-    try:
-        s.encode(encoding='utf-8').decode('ascii')
-    except UnicodeDecodeError:
-        return False
-    else:
-        return True
-
-def check_input(text: str) -> bool:
-    if not isEnglish(text):
-        return False
-
-    text = text.replace("- IFTTT", "")
-    if text == "IFTTT / 404 Error" or len(text.split()) < 3:
-        return False
-
-    return True
 
 # # %%
-# dev = []
-# for i in la_dev:
+# la_dat = pickle.load(open("data/ifttt/msr_data_py3.pkl", "rb"))
+
+# #%%
+# la_dat.keys()
+
+
+# # %%
+# la_dev   = la_dat["dev"]
+# la_train = la_dat["train"]
+
+# # %%
+# print(len(la_dev), len(dev_urls))
+# print(len(la_train), len(train_urls))
+
+# #%%
+# def isEnglish(s):
+#     try:
+#         s.encode(encoding='utf-8').decode('ascii')
+#     except UnicodeDecodeError:
+#         return False
+#     else:
+#         return True
+
+# def check_input(text: str) -> bool:
+#     if not isEnglish(text):
+#         return False
+
+#     text = text.replace("- IFTTT", "")
+#     if text == "IFTTT / 404 Error" or len(text.split()) < 3:
+#         return False
+
+#     return True
+
+# # # %%
+# # dev = []
+# # for i in la_dev:
+# #     url = i["url"]
+# #     labels = i["label_names"]
+# #     text = url_map[url]["title"]
+# #     desc = url_map[url]["description"]
+
+# #     if not check_input(text):
+# #         continue
+
+# #     text = " ".join([t.strip() for t in text.split()])
+# #     text = text.replace("- IFTTT", "").replace('"', "").strip().lower()
+
+# #     labels = [lab.decode('UTF-8').strip().lower() for lab in labels]
+# #     target = " ".join(labels)
+
+# #     dev.append({"text": text,
+# #                         "url": url,
+# #                         "desc": desc,
+# #                         "target": target,
+# #                         "seq": labels})
+
+# # dev_df = pd.DataFrame(dev)
+# # dev_df.head()
+
+# # # %%
+# # dev_df.to_csv("data/ifttt/dev_clean.csv", index=False)
+
+
+# # # %%
+# # with open("data/ifttt/src_val.txt", "w") as f:
+# #     src = [s + " \n" for s in dev_df.text.tolist()]
+# #     f.writelines(src)
+
+# # with open("data/ifttt/target_val.txt", "w") as f:
+# #     target = [s + " \n" for s in dev_df.target.tolist()]
+# #     f.writelines(target)
+
+
+# # %%
+# train = []
+# bc = []
+
+# for i in tqdm(la_train):
 #     url = i["url"]
 #     labels = i["label_names"]
 #     text = url_map[url]["title"]
 #     desc = url_map[url]["description"]
 
 #     if not check_input(text):
+#         bc.append(text)
 #         continue
 
 #     text = " ".join([t.strip() for t in text.split()])
@@ -184,67 +227,80 @@ def check_input(text: str) -> bool:
 #     labels = [lab.decode('UTF-8').strip().lower() for lab in labels]
 #     target = " ".join(labels)
 
-#     dev.append({"text": text,
-#                         "url": url,
-#                         "desc": desc,
-#                         "target": target,
-#                         "seq": labels})
+#     train.append({"text": text, "url": url, "desc": desc, "target": target,
+#                   "seq": labels})
 
-# dev_df = pd.DataFrame(dev)
-# dev_df.head()
+# train_df = pd.DataFrame(train)
+# train_df.head()
 
-# # %%
-# dev_df.to_csv("data/ifttt/dev_clean.csv", index=False)
+# print("bad ", len(bc))
+# train_df.to_csv("data/ifttt/train_clean.csv", index=False)
 
-
-# # %%
-# with open("data/ifttt/src_val.txt", "w") as f:
-#     src = [s + " \n" for s in dev_df.text.tolist()]
+# ## %%
+# with open("data/ifttt/src_train.txt", "w") as f:
+#     src = [s + " \n" for s in train_df.text.tolist()]
 #     f.writelines(src)
 
-# with open("data/ifttt/target_val.txt", "w") as f:
-#     target = [s + " \n" for s in dev_df.target.tolist()]
+# with open("data/ifttt/target_train.txt", "w") as f:
+#     target = [s + " \n" for s in train_df.target.tolist()]
 #     f.writelines(target)
+
+# with open("bad_train.txt","w") as f:
+#     for b in bc:
+#         f.write(b + " \n")
+
+# Regenerate test set. Use LA Attention paper value but our filtered ids
+#%%
+test_clean = pd.read_csv("data/ifttt/test_clean.csv")
+la = pickle.load(open("data/ifttt/msr_data_py3.pkl", "rb"))
 
 
 # %%
-train = []
-bc = []
+la_test = la["test"]
+la_test_map = {m["url"]: m for m in la_test}
+# %%
+test_v1 = [] # relabel functions with channel prepended
+test_v2 = [] # used functions from lattent attention paper
 
-for i in tqdm(la_train):
-    url = i["url"]
-    labels = i["label_names"]
-    text = url_map[url]["title"]
-    desc = url_map[url]["description"]
+skipped = []
+for i, v in test_clean.iterrows():
+    
+    # Relabel base labels
+    bl = v.target.split()
+    bl[1] = bl[0] + "." + bl[1]
+    bl[3] = bl[2] + "." + bl[3]
+    bl_target = " ".join(bl)
+    test_v1.append({"src": v.text, "target": bl_target})
 
-    if not check_input(text):
-        bc.append(text)
+    # Grab label from LA paper dataset
+    try:
+        url = v.url
+        la_labels = la_test_map[url]["label_names"]
+        la_target = " ".join([lab.decode('UTF-8').strip().lower().replace(" ","_") for lab in la_labels])
+
+        test_v2.append({"src": v.text, "target": la_target})
+    except:
+        skipped.append(url)
         continue
 
-    text = " ".join([t.strip() for t in text.split()])
-    text = text.replace("- IFTTT", "").replace('"', "").strip().lower()
 
-    labels = [lab.decode('UTF-8').strip().lower() for lab in labels]
-    target = " ".join(labels)
+# %%
+print(len(test_v1), len(test_v2))
 
-    train.append({"text": text, "url": url, "desc": desc, "target": target,
-                  "seq": labels})
+# %%
+with open("data/ifttt/src_test_v1.txt", "w") as src_file, \
+     open("data/ifttt/target_test_v1.txt", "w") as target_file:
+     src = [s["src"]+" /n" for s in test_v1]
+     src_file.writelines(src)
+     target = [s["src"]+" /n" for s in test_v1]
+     target_file.writelines(target)
 
-train_df = pd.DataFrame(train)
-train_df.head()
+# %%
+with open("data/ifttt/src_test_v2.txt", "w") as src_file, \
+     open("data/ifttt/target_test_v2.txt", "w") as target_file:
+     src = [s["src"]+" /n" for s in test_v2]
+     src_file.writelines(src)
+     target = [s["src"]+" /n" for s in test_v2]
+     target_file.writelines(target)
 
-print("bad ", len(bc))
-train_df.to_csv("data/ifttt/train_clean.csv", index=False)
-
-## %%
-with open("data/ifttt/src_train.txt", "w") as f:
-    src = [s + " \n" for s in train_df.text.tolist()]
-    f.writelines(src)
-
-with open("data/ifttt/target_train.txt", "w") as f:
-    target = [s + " \n" for s in train_df.target.tolist()]
-    f.writelines(target)
-
-with open("bad_train.txt","w") as f:
-    for b in bc:
-        f.write(b + " \n")
+# %%
